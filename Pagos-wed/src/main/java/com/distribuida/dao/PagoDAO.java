@@ -7,7 +7,7 @@ import com.distribuida.entities.Pago;
 
 public interface PagoDAO {
 
-	//crud basico 
+	//crud basico hola
 	public List<Pago> findALL();
 
 	public Pago findOne(int id);
